@@ -1,3 +1,2 @@
-
-# research-docs
-This repository comprises research documents of which I am an author.
+# Research documents
+This repository comprises of research documents that I have authored with collaborators.
