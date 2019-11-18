@@ -1,6 +1,6 @@
 # Key
 
-| Poster | Conference |
+| Poster | Venue |
 | ---	|:---:		 |
 | [Scalable Communication Endpoints for MPI+Threads Applications](https://github.com/rzambre/research-docs/blob/master/posters/icpads_18.pdf)   	| ICPADS'18  	|
 | [Evaluating Multiple Endpoints for MPI with libibverbs](https://github.com/rzambre/research-docs/blob/master/posters/eurompi_17.pdf)	| EuroMPI'17 |

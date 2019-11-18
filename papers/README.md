@@ -1,6 +1,6 @@
 # Key
 
-| Paper	| Conference |
+| Paper	| Venue |
 | ---	|:---:		 |
 | [Breaking Band: A Breakdown of High-performance Communication](https://github.com/rzambre/research-docs/blob/master/papers/icpp_19_preprint.pdf)   	| ICPP'19   	|
 | [Scalable Communication Endpoints for MPI+Threads Applications](https://github.com/rzambre/research-docs/blob/master/papers/icpads_18_preprint.pdf)   	| ICPADS'18  	|
